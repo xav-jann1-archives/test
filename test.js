@@ -9,3 +9,5 @@ console.log('Another change')
 
 
 console.log('test branch to be merge with atom')
+
+console.log('I\'m in a branch')
